@@ -1,0 +1,15 @@
+.footer{
+  /* align-content: space-around; */
+  background-color: #3476CC;
+  border: 1px solid black ;
+  /* color:violet; */
+  color: white;
+  /* text-decoration: inherit; */
+  padding: 10px;
+  text-decoration: inherit;
+}
+
+.anchor{
+  color: inherit;
+  text-decoration: inherit;
+}
